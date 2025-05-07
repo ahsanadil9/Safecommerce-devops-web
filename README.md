@@ -81,21 +81,6 @@ SafeCommerce is a **microservices-based**, scalable, and secure e-commerce platf
 
 ---
 
-## 📂 Folder Structure (Simplified)
-├── frontend/ # Next.js app
-├── gateway/ # API Gateway
-├── services/
-│ ├── auth/
-│ ├── product/
-│ ├── order/
-│ ├── user-profile/
-│ └── notification/
-├── monitoring/ # Prometheus + Grafana configs
-├── docker-compose.yml
-├── .github/workflows/ # CI/CD pipelines
-└── README.md
----
-
 ## 🛠️ Setup & Local Development
 
 ```bash
@@ -118,7 +103,7 @@ Feel free to open issues or submit PRs! Make sure to follow the conventional com
 This project is open-source and available under the MIT License.
 
 👨‍💻 Author
-SafeCommerce is developed and maintained by Your Name.
-For questions or collaboration, reach out on LinkedIn or email.
+SafeCommerce is developed and maintained by Muhammad Ahsan Adil.
+For questions or collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/muhammadahsanadil/) or muhammadmahsanadil@gmail.com.
 
 
