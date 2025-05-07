@@ -1,0 +1,59 @@
+# Node modules and logs
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Dependency directories
+**/dist/
+**/.turbo/
+**/.next/
+**/.output/
+**/.vercel/
+
+# Local env files
+**/.env
+**/.env.*.local
+**/.env.local
+
+# Editor directories and system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build and coverage directories
+coverage/
+build/
+out/
+
+# Prisma generated folders
+**/prisma/migrations/
+**/prisma/dev.db
+**/prisma/dev.db-journal
+
+# Docker related
+**/*.local
+**/.docker/
+**/docker-compose.override.yml
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Test related
+**/test-results/
+**/jest-coverage/
+**/coverage/
+
+# Grafana sessions and state
+infra/grafana/data/
+
+# Ignore backups or temp
+*.bak
+*.tmp
